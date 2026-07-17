@@ -1,0 +1,19 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[ABNT 1989]{NBR10905:1989}
+\abntrefinfo{ABNT}{ABNT}{1989}
+{ABNT. \textbf{{NBR}-10905: Solo -- Ensaios de palheta in situ}.
+Rio de Janeiro, 1989. 9~p.}
+
+\bibitem[Lunne, Robertson e Powell 1997]{LUNNE:1997}
+\abntrefinfo{Lunne, Robertson e Powell}{LUNNE; ROBERTSON; POWELL}{1997}
+{LUNNE, T.; ROBERTSON, P.; POWELL, J. Cone penetration testing in geotechnical
+  practice.
+\textbf{Soil Mechanics and Foundation Engineering}, v.~46, 01 1997.}
+
+\end{thebibliography}
